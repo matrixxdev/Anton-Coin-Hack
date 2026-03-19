@@ -15,7 +15,7 @@ Ein Guide von Benjamin
    - **Strg + Shift + I**
 4. Gebe dieses Skript ein. Ersteze HIERANZAHLEINFÜGEN durch die Menge Münzen die du haben willst. Wenn ein Fehler kommt oder es nicht funktioniert versuche es nochmal oder verkleinere die Münz Zahl.
 
-**Skript**
+## Skript ##
 ```
 addCoins = function(amount) {
         return typeof log != 'undefined' && log !== null ? log.log({
