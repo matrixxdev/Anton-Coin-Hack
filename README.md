@@ -25,7 +25,8 @@ addCoins = function(amount) {
     };
 addCoins(HIERANZAHLEINFÜGEN)
 ```
-
+**Falls das Skript nicht richtig angezeigt wird, hier der Gist Link zum Skript.**
+**https://gist.github.com/benjaminoliverblanke/3872ad993670a76b941c7fdf10c5cfa4**
 
 ## 💡 Hinweis
 Bitte beachte die Nutzungsbedingungen der jeweiligen Plattform.
